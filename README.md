@@ -29,7 +29,7 @@ Use the points you've earned to purchase sustainable products in the app's marke
 Browse a selection of eco-friendly products and redeem your points to make a positive impact on the planet.
 
 # Installation
-1. Clone the repository
+1. Clone the repository/ download and unzip the file
 2. Open the project in Android Studio.
 3. Build and run the app on an Android device or emulator.
 
