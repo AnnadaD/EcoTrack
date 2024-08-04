@@ -39,3 +39,15 @@ Browse a selection of eco-friendly products and redeem your points to make a pos
 3. Interact with the chatbot to get tips on reducing your carbon emissions.
 4. Explore the resources page to learn more about sustainability and earn rewards.
 5. Redeem your points to purchase eco-friendly products.
+
+# Technology
+![image](https://github.com/user-attachments/assets/fc5af21b-bb2f-43e5-8381-8195224c4d3f)
+![image](https://github.com/user-attachments/assets/4a7fda50-7f53-43d7-aca1-b76e8d6dac14)
+![image](https://github.com/user-attachments/assets/27477b39-47c6-49ad-8997-5fb512cf0f96)
+![image](https://github.com/user-attachments/assets/65e11d67-b81c-46ee-811f-68a8bc58e316)
+![image](https://github.com/user-attachments/assets/4940d9fb-dc44-490b-ad48-304dc7feea77)
+![image](https://github.com/user-attachments/assets/c92172f5-fd06-4d72-a247-8494196d6414)
+
+
+
+
