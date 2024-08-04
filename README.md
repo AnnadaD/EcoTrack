@@ -44,7 +44,7 @@ Browse a selection of eco-friendly products and redeem your points to make a pos
 | Technology | Icon |
 |------------|------|
 | **Android Studio** | <img src="https://github.com/user-attachments/assets/fc5af21b-bb2f-43e5-8381-8195224c4d3f" width="75" height="75" /> |
-| **Vertex AI** | <img src="https://github.com/user-attachments/assets/4a7fda75-7f53-43d7-aca1-b76e8d6dac14" width="75" height="75" /> |
+| **Vertex AI** | <img src="https://github.com/user-attachments/assets/8318180d-6ffa-4a56-878c-4bc7ecc024b7" width="75" height="75" /> |
 | **Java** | <img src="https://github.com/user-attachments/assets/27477b39-47c6-49ad-8997-5fb512cf0f96" width="75" height="75" /> |
 | **SQLite** | <img src="https://github.com/user-attachments/assets/65e11d67-b81c-46ee-811f-68a8bc58e316" width="75" height="75" /> |
 | **Python** | <img src="https://github.com/user-attachments/assets/4940d9fb-dc44-490b-ad48-304dc7feea77" width="75" height="75" /> |
