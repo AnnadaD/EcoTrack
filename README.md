@@ -1,5 +1,12 @@
-# EcoTrack
-Ecotrack is an innovative app designed to help users calculate and track their carbon footprint based on their daily activities, such as travel, food consumption, and appliance usage. The app provides a progress tracker to visualize your environmental impact and offers resources and rewards to encourage sustainable practices.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/950d0ab1-b351-4d63-a804-aa1f090c2f8e" width="100" height="100" />
+</p>
+
+<h1 align="center">EcoTrack</h1>
+
+<p align="center">
+  Ecotrack is an innovative app designed to help users calculate and track their carbon footprint based on their daily activities, such as travel, food consumption, and appliance usage. The app provides a progress tracker to visualize your environmental impact and offers resources and rewards to encourage sustainable practices.
+</p>
 
 # Features
 🌍 Carbon Footprint Calculator
